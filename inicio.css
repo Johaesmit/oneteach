@@ -1,0 +1,34 @@
+#Cuerpo1 {
+    background-color:#015958;
+    position: absolute;
+    top:0%;
+    width: 100%;
+    height: 100%;
+    }
+#Cuerpo2 {
+    background-color:#023535;
+    position: absolute;
+    top:30%;
+    width: 70%;
+    height: 80%;
+}
+#Cuerpo3 {
+    background-color:#ffffff;
+    position: absolute;
+    top:0%;
+    width: 100%;
+    height: 100%;
+}
+.navbar {
+    background-color:#023535;
+    }
+    
+.btn{
+    background-color:#008F8C;
+    color: #FFFFFF;
+    }
+    
+.btn:hover{
+    background-color:#FACFCE;
+    }
+    
